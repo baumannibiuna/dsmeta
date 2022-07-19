@@ -1,4 +1,4 @@
-package com.baumannibiuna.dsmeta.repository;
+package com.baumannibiuna.dsmeta.repositories;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package com.baumannibiuna.dsmeta.service;
+package com.baumannibiuna.dsmeta.services;
 
 import java.time.Instant;
 import java.time.LocalDate;
@@ -10,7 +10,7 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import com.baumannibiuna.dsmeta.entities.Sale;
-import com.baumannibiuna.dsmeta.repository.SaleRepository;
+import com.baumannibiuna.dsmeta.repositories.SaleRepository;
 
 @Service
 public class SaleService {
